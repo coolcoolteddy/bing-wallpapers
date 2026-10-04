@@ -1,1 +1,38 @@
-IyBCaW5nIFdhbGxwYXBlcnMgwrcg5b+F5bqU5q+P5pel5aOB57q4CgpEYWlseSBCaW5nIHdhbGxwYXBlcnMgaW4gZnVsbCBvcmlnaW5hbCBxdWFsaXR5IOKAlCBubyBjb21wcmVzc2lvbi4K5q+P5aSp5pu05paw55qE5b+F5bqU5aOB57q45Y6f5Zu+77yM5peg5Y6L57yp44CCCgotIERlc2t0b3Ag5qGM6Z2i54mI77yaMzg0MCB4IDIxNjAgKDRLKQotIFBob25lIOaJi+acuueJiO+8mjEwODAgeCAxOTIwCgojIyAyMDI2LTEwLTAxCgoqKkEgZmFjZSB5b3UgZG9uJ3QgZm9yZ2V0Kiog4oCUIE1hbGUgYmVhcmRlZCByZWVkbGluZywgTm9yZm9saywgRW5nbGFuZCAowqkgQW5kcmV3IFNwcm91bGUvU2h1dHRlcnN0b2NrKQoKLSBbRGVza3RvcCA0SyDljp/lm75dKGh0dHBzOi8vZ2l0aHViLmNvbS9jb29sY29vbHRlZGR5L2Jpbmctd2FsbHBhcGVycy9yYXcvbWFpbi8yMDI2MTAwMV9kZXNrdG9wLmpwZykKLSBbUGhvbmUg5omL5py654mIXShodHRwczovL2dpdGh1Yi5jb20vY29vbGNvb2x0ZWRkeS9iaW5nLXdhbGxwYXBlcnMvcmF3L21haW4vMjAyNjEwMDFfcGhvbmUuanBnKQoKIyMgMjAyNi0xMC0wMgoKKipSZWFkaW5nIHRpbWUgaW4gZ3Jhbml0ZSoqIOKAlCBTdW5zZXQgZnJvbSBPbG1zdGVkIFBvaW50LCBZb3NlbWl0ZSBOYXRpb25hbCBQYXJrLCBDYWxpZm9ybmlhLCBVU0EgKMKpIFJvYmIgSGlyc2NoKQoKLSBbRGVza3RvcCA0SyDljp/lm75dKGh0dHBzOi8vZ2l0aHViLmNvbS9jb29sY29vbHRlZGR5L2Jpbmctd2FsbHBhcGVycy9yYXcvbWFpbi8yMDI2MTAwMl9kZXNrdG9wLmpwZykKLSBbUGhvbmUg5omL5py654mIXShodHRwczovL2dpdGh1Yi5jb20vY29vbGNvb2x0ZWRkeS9iaW5nLXdhbGxwYXBlcnMvcmF3L21haW4vMjAyNjEwMDJfcGhvbmUuanBnKQoKIyMgMjAyNi0xMC0wMwoKKipBIHJpdmVyIHdvcnRoIHByb3RlY3RpbmcqKiDigJQgQ2hhdHRvb2dhIFJpdmVyIGluIHRoZSBBcHBhbGFjaGlhbiBNb3VudGFpbnMsIE5vcnRoIENhcm9saW5hICjCqSBtdGlsZ2htYS9HZXR0eSBJbWFnZXMpCgotIFtEZXNrdG9wIDRLIOWOn+Wbvl0oaHR0cHM6Ly9naXRodWIuY29tL2Nvb2xjb29sdGVkZHkvYmluZy13YWxscGFwZXJzL3Jhdy9tYWluLzIwMjYxMDAzX2Rlc2t0b3AuanBnKQotIFtQaG9uZSDmiYvmnLrniYhdKGh0dHBzOi8vZ2l0aHViLmNvbS9jb29sY29vbHRlZGR5L2Jpbmctd2FsbHBhcGVycy9yYXcvbWFpbi8yMDI2MTAwM19waG9uZS5qcGcpCgojIyAyMDI2LTEwLTA0CgoqKkNhdGNoLCBlYXQsIHJlcGVhdCoqIOKAlCBCcm93biBiZWFyIGluIFNpbHZlciBTYWxtb24gQ3JlZWssIExha2UgQ2xhcmsgTmF0aW9uYWwgUGFyayBhbmQgUHJlc2VydmUsIEFsYXNrYSAowqkgRGFubnkgR3JlZW4pCgotIFtEZXNrdG9wIDRLIOWOn+Wbvl0oaHR0cHM6Ly9naXRodWIuY29tL2Nvb2xjb29sdGVkZHkvYmluZy13YWxscGFwZXJzL3Jhdy9tYWluLzIwMjYxMDA0X2Rlc2t0b3AuanBnKQotIFtQaG9uZSDmiYvmnLrniYhdKGh0dHBzOi8vZ2l0aHViLmNvbS9jb29sY29vbHRlZGR5L2Jpbmctd2FsbHBhcGVycy9yYXcvbWFpbi8yMDI2MTAwNF9waG9uZS5qcGcpCgotLS0KUGhvdG9zIHZpYSBCaW5nIC8gY29weXJpZ2h0IHRoZWlyIHJlc3BlY3RpdmUgcGhvdG9ncmFwaGVycy4g5LuF5L6b5Liq5Lq65L2/55So44CCCg==
+# Bing Wallpapers · 必应每日壁纸
+
+Daily Bing wallpapers in full original quality — no compression.
+每天更新的必应壁纸原图，无压缩。
+
+- Desktop 桌面版：3840 x 2160 (4K)
+- Phone 手机版：1080 x 1920
+
+## 2026-10-01
+
+**A face you don't forget** — Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261001_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261001_phone.jpg)
+
+## 2026-10-02
+
+**Reading time in granite** — Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261002_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261002_phone.jpg)
+
+## 2026-10-03
+
+**A river worth protecting** — Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261003_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261003_phone.jpg)
+
+## 2026-10-04
+
+**Catch, eat, repeat** — Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261004_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261004_phone.jpg)
+
+---
+Photos via Bing / copyright their respective photographers. 仅供个人使用。
