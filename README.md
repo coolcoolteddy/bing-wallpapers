@@ -41,6 +41,13 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261005_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261005_phone.jpg)
 
+## 2026-10-06
+
+**Taking the plunge, one lesson at a time** — Adélie penguins, Antarctica (© Otto Plantema)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261006_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261006_phone.jpg)
+
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
