@@ -48,6 +48,13 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261006_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261006_phone.jpg)
 
+## 2026-10-07
+
+**Earth's story in stripes** — Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261007_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261007_phone.jpg)
+
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
