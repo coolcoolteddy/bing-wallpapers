@@ -62,6 +62,13 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261008_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261008_phone.jpg)
 
+## 2026-10-09
+
+**Now you 'sea' me...** — Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261009_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261009_phone.jpg)
+
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
