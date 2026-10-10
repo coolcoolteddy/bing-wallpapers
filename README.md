@@ -69,6 +69,14 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261009_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261009_phone.jpg)
 
+## 2026-10-10
+
+**Corsica's rocky outposts** — View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261010_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261010_phone.jpg)
+
+
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
