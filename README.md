@@ -77,6 +77,14 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261010_phone.jpg)
 
 
+## 2026-10-11
+
+**Life along the flyway** — Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261011_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261011_phone.jpg)
+
+
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
