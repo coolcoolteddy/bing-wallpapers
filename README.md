@@ -85,6 +85,13 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261011_phone.jpg)
 
 
+## 2026-10-12
+
+**Where autumn turns the wheel** — Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261012_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261012_phone.jpg)
+
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
