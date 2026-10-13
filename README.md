@@ -92,6 +92,13 @@ Daily Bing wallpapers in full original quality — no compression.
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261012_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261012_phone.jpg)
 
+## 2026-10-13
+
+**A landscape of living history** — White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261013_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261013_phone.jpg)
+
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
