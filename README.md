@@ -102,3 +102,11 @@ Daily Bing wallpapers in full original quality — no compression.
 ---
 
 Photos via Bing / copyright their respective photographers. 仅供个人使用。
+
+## 2026-10-14
+
+**A symphony in blue and green** — Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261014_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261014_phone.jpg)
+
