@@ -110,3 +110,9 @@ Photos via Bing / copyright their respective photographers. 仅供个人使用�
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261014_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261014_phone.jpg)
 
+## 2026-10-15
+
+**Spirals through time** — Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261015_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261015_phone.jpg)
