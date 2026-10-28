@@ -200,3 +200,10 @@ Photos via Bing / copyright their respective photographers. 仅供个人使用�
 
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261027_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261027_phone.jpg)
+
+## 2026-10-28
+
+**Nature's golden mirror** — A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261028_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261028_phone.jpg)
