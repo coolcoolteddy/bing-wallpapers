@@ -214,3 +214,10 @@ Photos via Bing / copyright their respective photographers. 仅供个人使用�
 
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261029_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261029_phone.jpg)
+
+## 2026-10-30
+
+**Where mist meets millennia** — Standing stones at Avebury in Wiltshire, England (© George W Johnson)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261030_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261030_phone.jpg)
