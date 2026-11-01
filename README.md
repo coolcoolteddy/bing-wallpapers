@@ -228,3 +228,10 @@ Photos via Bing / copyright their respective photographers. 仅供个人使用�
 
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261031_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261031_phone.jpg)
+
+## 2026-11-01
+
+**Ghosts of empires past** — St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261101_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261101_phone.jpg)
