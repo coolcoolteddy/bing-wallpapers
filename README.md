@@ -242,3 +242,10 @@ Photos via Bing / copyright their respective photographers. 仅供个人使用�
 
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261102_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261102_phone.jpg)
+
+## 2026-11-03
+
+**A future written in ice** — Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261103_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261103_phone.jpg)
