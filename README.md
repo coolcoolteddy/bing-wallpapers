@@ -256,3 +256,10 @@ Photos via Bing / copyright their respective photographers. 仅供个人使用�
 
 - [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261104_desktop.jpg)
 - [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261104_phone.jpg)
+
+## 2026-11-05
+
+**Paddling a painted forest** — People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)
+
+- [Desktop 4K 原图](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261105_desktop.jpg)
+- [Phone 手机版](https://github.com/coolcoolteddy/bing-wallpapers/raw/main/20261105_phone.jpg)
